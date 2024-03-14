@@ -7,16 +7,7 @@ const config: GatsbyConfig = {
     siteUrl: 'https://laksby.github.io/demo-user-list/',
   },
   graphqlTypegen: true,
-  plugins: [
-    'gatsby-plugin-postcss',
-    'gatsby-transformer-json',
-    {
-      resolve: 'gatsby-source-filesystem',
-      options: {
-        path: `${__dirname}/data`,
-      },
-    },
-  ],
+  plugins: ['gatsby-plugin-postcss', 'gatsby-transformer-json'],
 };
 
 export default config;
