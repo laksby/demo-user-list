@@ -1,6 +1,6 @@
 # Demo: User list
 
-![status](https://github.com/laksby/demo-user-list/actions/workflows/gatsby.yml/badge.svg?branch=master)
+![status](https://github.com/laksby/demo-user-list/actions/workflows/gatsby.yml/badge.svg?branch=main)
 
 This repository contains source code for demo page containing user list.
 
