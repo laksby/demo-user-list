@@ -1,0 +1,1847 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Index page tests Page rendering: Initial 1`] = `
+<div
+  className="tw-p-4"
+>
+  <table>
+    <colgroup>
+      <col
+        style={
+          {
+            "width": "320px",
+          }
+        }
+      />
+      <col
+        style={
+          {
+            "width": "140px",
+          }
+        }
+      />
+      <col
+        style={
+          {
+            "width": undefined,
+          }
+        }
+      />
+      <col
+        style={
+          {
+            "width": "200px",
+          }
+        }
+      />
+      <col
+        style={
+          {
+            "width": "140px",
+          }
+        }
+      />
+    </colgroup>
+    <tbody>
+      <tr>
+        <td>
+          <div>
+            <div
+              className=""
+            >
+              <div
+                style={
+                  {
+                    "height": "64px",
+                    "width": "64px",
+                  }
+                }
+              >
+                <img
+                  alt="User avatar"
+                  src="https://avatars.githubusercontent.com/u/18249173"
+                />
+              </div>
+              <div
+                className="skeleton skeleton-circle"
+                style={
+                  {
+                    "height": "64px",
+                    "width": "64px",
+                  }
+                }
+              />
+            </div>
+            <div
+              className=""
+            >
+              <div
+                className="skeleton skeleton-block tw-h-4"
+              />
+              <div
+                className="skeleton skeleton-block tw-h-4"
+              />
+            </div>
+          </div>
+        </td>
+        <td>
+          <div
+            className=""
+          >
+            <div
+              className="skeleton skeleton-block tw-h-4"
+            />
+            <div
+              className="skeleton skeleton-block tw-h-4"
+            />
+          </div>
+        </td>
+        <td>
+          <div
+            className=""
+          >
+            <div
+              className="skeleton skeleton-block tw-h-4"
+            />
+            <div
+              className="skeleton skeleton-block tw-h-4"
+            />
+          </div>
+        </td>
+        <td>
+          <div
+            className=""
+          >
+            <div
+              className="skeleton skeleton-block tw-h-4"
+            />
+            <div
+              className="skeleton skeleton-block tw-h-4"
+            />
+          </div>
+        </td>
+        <td>
+          <div
+            className=""
+          >
+            <div
+              className="skeleton skeleton-block tw-h-4"
+            />
+            <div
+              className="skeleton skeleton-block tw-h-4"
+            />
+          </div>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <div>
+            <div
+              className=""
+            >
+              <div
+                style={
+                  {
+                    "height": "64px",
+                    "width": "64px",
+                  }
+                }
+              >
+                <img
+                  alt="User avatar"
+                  src="https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/380.jpg"
+                />
+              </div>
+              <div
+                className="skeleton skeleton-circle"
+                style={
+                  {
+                    "height": "64px",
+                    "width": "64px",
+                  }
+                }
+              />
+            </div>
+            <div
+              className=""
+            >
+              <div
+                className="skeleton skeleton-block tw-h-4"
+              />
+              <div
+                className="skeleton skeleton-block tw-h-4"
+              />
+            </div>
+          </div>
+        </td>
+        <td>
+          <div
+            className=""
+          >
+            <div
+              className="skeleton skeleton-block tw-h-4"
+            />
+            <div
+              className="skeleton skeleton-block tw-h-4"
+            />
+          </div>
+        </td>
+        <td>
+          <div
+            className=""
+          >
+            <div
+              className="skeleton skeleton-block tw-h-4"
+            />
+            <div
+              className="skeleton skeleton-block tw-h-4"
+            />
+          </div>
+        </td>
+        <td>
+          <div
+            className=""
+          >
+            <div
+              className="skeleton skeleton-block tw-h-4"
+            />
+            <div
+              className="skeleton skeleton-block tw-h-4"
+            />
+          </div>
+        </td>
+        <td>
+          <div
+            className=""
+          >
+            <div
+              className="skeleton skeleton-block tw-h-4"
+            />
+            <div
+              className="skeleton skeleton-block tw-h-4"
+            />
+          </div>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <div>
+            <div
+              className=""
+            >
+              <div
+                style={
+                  {
+                    "height": "64px",
+                    "width": "64px",
+                  }
+                }
+              >
+                <img
+                  alt="User avatar"
+                  src="https://avatars.githubusercontent.com/u/76254782"
+                />
+              </div>
+              <div
+                className="skeleton skeleton-circle"
+                style={
+                  {
+                    "height": "64px",
+                    "width": "64px",
+                  }
+                }
+              />
+            </div>
+            <div
+              className=""
+            >
+              <div
+                className="skeleton skeleton-block tw-h-4"
+              />
+              <div
+                className="skeleton skeleton-block tw-h-4"
+              />
+            </div>
+          </div>
+        </td>
+        <td>
+          <div
+            className=""
+          >
+            <div
+              className="skeleton skeleton-block tw-h-4"
+            />
+            <div
+              className="skeleton skeleton-block tw-h-4"
+            />
+          </div>
+        </td>
+        <td>
+          <div
+            className=""
+          >
+            <div
+              className="skeleton skeleton-block tw-h-4"
+            />
+            <div
+              className="skeleton skeleton-block tw-h-4"
+            />
+          </div>
+        </td>
+        <td>
+          <div
+            className=""
+          >
+            <div
+              className="skeleton skeleton-block tw-h-4"
+            />
+            <div
+              className="skeleton skeleton-block tw-h-4"
+            />
+          </div>
+        </td>
+        <td>
+          <div
+            className=""
+          >
+            <div
+              className="skeleton skeleton-block tw-h-4"
+            />
+            <div
+              className="skeleton skeleton-block tw-h-4"
+            />
+          </div>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <div>
+            <div
+              className=""
+            >
+              <div
+                style={
+                  {
+                    "height": "64px",
+                    "width": "64px",
+                  }
+                }
+              >
+                <img
+                  alt="User avatar"
+                  src="https://avatars.githubusercontent.com/u/73107303"
+                />
+              </div>
+              <div
+                className="skeleton skeleton-circle"
+                style={
+                  {
+                    "height": "64px",
+                    "width": "64px",
+                  }
+                }
+              />
+            </div>
+            <div
+              className=""
+            >
+              <div
+                className="skeleton skeleton-block tw-h-4"
+              />
+              <div
+                className="skeleton skeleton-block tw-h-4"
+              />
+            </div>
+          </div>
+        </td>
+        <td>
+          <div
+            className=""
+          >
+            <div
+              className="skeleton skeleton-block tw-h-4"
+            />
+            <div
+              className="skeleton skeleton-block tw-h-4"
+            />
+          </div>
+        </td>
+        <td>
+          <div
+            className=""
+          >
+            <div
+              className="skeleton skeleton-block tw-h-4"
+            />
+            <div
+              className="skeleton skeleton-block tw-h-4"
+            />
+          </div>
+        </td>
+        <td>
+          <div
+            className=""
+          >
+            <div
+              className="skeleton skeleton-block tw-h-4"
+            />
+            <div
+              className="skeleton skeleton-block tw-h-4"
+            />
+          </div>
+        </td>
+        <td>
+          <div
+            className=""
+          >
+            <div
+              className="skeleton skeleton-block tw-h-4"
+            />
+            <div
+              className="skeleton skeleton-block tw-h-4"
+            />
+          </div>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <div>
+            <div
+              className=""
+            >
+              <div
+                style={
+                  {
+                    "height": "64px",
+                    "width": "64px",
+                  }
+                }
+              >
+                <img
+                  alt="User avatar"
+                  src="https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/1159.jpg"
+                />
+              </div>
+              <div
+                className="skeleton skeleton-circle"
+                style={
+                  {
+                    "height": "64px",
+                    "width": "64px",
+                  }
+                }
+              />
+            </div>
+            <div
+              className=""
+            >
+              <div
+                className="skeleton skeleton-block tw-h-4"
+              />
+              <div
+                className="skeleton skeleton-block tw-h-4"
+              />
+            </div>
+          </div>
+        </td>
+        <td>
+          <div
+            className=""
+          >
+            <div
+              className="skeleton skeleton-block tw-h-4"
+            />
+            <div
+              className="skeleton skeleton-block tw-h-4"
+            />
+          </div>
+        </td>
+        <td>
+          <div
+            className=""
+          >
+            <div
+              className="skeleton skeleton-block tw-h-4"
+            />
+            <div
+              className="skeleton skeleton-block tw-h-4"
+            />
+          </div>
+        </td>
+        <td>
+          <div
+            className=""
+          >
+            <div
+              className="skeleton skeleton-block tw-h-4"
+            />
+            <div
+              className="skeleton skeleton-block tw-h-4"
+            />
+          </div>
+        </td>
+        <td>
+          <div
+            className=""
+          >
+            <div
+              className="skeleton skeleton-block tw-h-4"
+            />
+            <div
+              className="skeleton skeleton-block tw-h-4"
+            />
+          </div>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <div>
+            <div
+              className=""
+            >
+              <div
+                style={
+                  {
+                    "height": "64px",
+                    "width": "64px",
+                  }
+                }
+              >
+                <img
+                  alt="User avatar"
+                  src="https://avatars.githubusercontent.com/u/75117376"
+                />
+              </div>
+              <div
+                className="skeleton skeleton-circle"
+                style={
+                  {
+                    "height": "64px",
+                    "width": "64px",
+                  }
+                }
+              />
+            </div>
+            <div
+              className=""
+            >
+              <div
+                className="skeleton skeleton-block tw-h-4"
+              />
+              <div
+                className="skeleton skeleton-block tw-h-4"
+              />
+            </div>
+          </div>
+        </td>
+        <td>
+          <div
+            className=""
+          >
+            <div
+              className="skeleton skeleton-block tw-h-4"
+            />
+            <div
+              className="skeleton skeleton-block tw-h-4"
+            />
+          </div>
+        </td>
+        <td>
+          <div
+            className=""
+          >
+            <div
+              className="skeleton skeleton-block tw-h-4"
+            />
+            <div
+              className="skeleton skeleton-block tw-h-4"
+            />
+          </div>
+        </td>
+        <td>
+          <div
+            className=""
+          >
+            <div
+              className="skeleton skeleton-block tw-h-4"
+            />
+            <div
+              className="skeleton skeleton-block tw-h-4"
+            />
+          </div>
+        </td>
+        <td>
+          <div
+            className=""
+          >
+            <div
+              className="skeleton skeleton-block tw-h-4"
+            />
+            <div
+              className="skeleton skeleton-block tw-h-4"
+            />
+          </div>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <div>
+            <div
+              className=""
+            >
+              <div
+                style={
+                  {
+                    "height": "64px",
+                    "width": "64px",
+                  }
+                }
+              >
+                <img
+                  alt="User avatar"
+                  src="https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/468.jpg"
+                />
+              </div>
+              <div
+                className="skeleton skeleton-circle"
+                style={
+                  {
+                    "height": "64px",
+                    "width": "64px",
+                  }
+                }
+              />
+            </div>
+            <div
+              className=""
+            >
+              <div
+                className="skeleton skeleton-block tw-h-4"
+              />
+              <div
+                className="skeleton skeleton-block tw-h-4"
+              />
+            </div>
+          </div>
+        </td>
+        <td>
+          <div
+            className=""
+          >
+            <div
+              className="skeleton skeleton-block tw-h-4"
+            />
+            <div
+              className="skeleton skeleton-block tw-h-4"
+            />
+          </div>
+        </td>
+        <td>
+          <div
+            className=""
+          >
+            <div
+              className="skeleton skeleton-block tw-h-4"
+            />
+            <div
+              className="skeleton skeleton-block tw-h-4"
+            />
+          </div>
+        </td>
+        <td>
+          <div
+            className=""
+          >
+            <div
+              className="skeleton skeleton-block tw-h-4"
+            />
+            <div
+              className="skeleton skeleton-block tw-h-4"
+            />
+          </div>
+        </td>
+        <td>
+          <div
+            className=""
+          >
+            <div
+              className="skeleton skeleton-block tw-h-4"
+            />
+            <div
+              className="skeleton skeleton-block tw-h-4"
+            />
+          </div>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <div>
+            <div
+              className=""
+            >
+              <div
+                style={
+                  {
+                    "height": "64px",
+                    "width": "64px",
+                  }
+                }
+              >
+                <img
+                  alt="User avatar"
+                  src="https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/596.jpg"
+                />
+              </div>
+              <div
+                className="skeleton skeleton-circle"
+                style={
+                  {
+                    "height": "64px",
+                    "width": "64px",
+                  }
+                }
+              />
+            </div>
+            <div
+              className=""
+            >
+              <div
+                className="skeleton skeleton-block tw-h-4"
+              />
+              <div
+                className="skeleton skeleton-block tw-h-4"
+              />
+            </div>
+          </div>
+        </td>
+        <td>
+          <div
+            className=""
+          >
+            <div
+              className="skeleton skeleton-block tw-h-4"
+            />
+            <div
+              className="skeleton skeleton-block tw-h-4"
+            />
+          </div>
+        </td>
+        <td>
+          <div
+            className=""
+          >
+            <div
+              className="skeleton skeleton-block tw-h-4"
+            />
+            <div
+              className="skeleton skeleton-block tw-h-4"
+            />
+          </div>
+        </td>
+        <td>
+          <div
+            className=""
+          >
+            <div
+              className="skeleton skeleton-block tw-h-4"
+            />
+            <div
+              className="skeleton skeleton-block tw-h-4"
+            />
+          </div>
+        </td>
+        <td>
+          <div
+            className=""
+          >
+            <div
+              className="skeleton skeleton-block tw-h-4"
+            />
+            <div
+              className="skeleton skeleton-block tw-h-4"
+            />
+          </div>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <div>
+            <div
+              className=""
+            >
+              <div
+                style={
+                  {
+                    "height": "64px",
+                    "width": "64px",
+                  }
+                }
+              >
+                <img
+                  alt="User avatar"
+                  src="https://avatars.githubusercontent.com/u/33939747"
+                />
+              </div>
+              <div
+                className="skeleton skeleton-circle"
+                style={
+                  {
+                    "height": "64px",
+                    "width": "64px",
+                  }
+                }
+              />
+            </div>
+            <div
+              className=""
+            >
+              <div
+                className="skeleton skeleton-block tw-h-4"
+              />
+              <div
+                className="skeleton skeleton-block tw-h-4"
+              />
+            </div>
+          </div>
+        </td>
+        <td>
+          <div
+            className=""
+          >
+            <div
+              className="skeleton skeleton-block tw-h-4"
+            />
+            <div
+              className="skeleton skeleton-block tw-h-4"
+            />
+          </div>
+        </td>
+        <td>
+          <div
+            className=""
+          >
+            <div
+              className="skeleton skeleton-block tw-h-4"
+            />
+            <div
+              className="skeleton skeleton-block tw-h-4"
+            />
+          </div>
+        </td>
+        <td>
+          <div
+            className=""
+          >
+            <div
+              className="skeleton skeleton-block tw-h-4"
+            />
+            <div
+              className="skeleton skeleton-block tw-h-4"
+            />
+          </div>
+        </td>
+        <td>
+          <div
+            className=""
+          >
+            <div
+              className="skeleton skeleton-block tw-h-4"
+            />
+            <div
+              className="skeleton skeleton-block tw-h-4"
+            />
+          </div>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <div>
+            <div
+              className=""
+            >
+              <div
+                style={
+                  {
+                    "height": "64px",
+                    "width": "64px",
+                  }
+                }
+              >
+                <img
+                  alt="User avatar"
+                  src="https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/417.jpg"
+                />
+              </div>
+              <div
+                className="skeleton skeleton-circle"
+                style={
+                  {
+                    "height": "64px",
+                    "width": "64px",
+                  }
+                }
+              />
+            </div>
+            <div
+              className=""
+            >
+              <div
+                className="skeleton skeleton-block tw-h-4"
+              />
+              <div
+                className="skeleton skeleton-block tw-h-4"
+              />
+            </div>
+          </div>
+        </td>
+        <td>
+          <div
+            className=""
+          >
+            <div
+              className="skeleton skeleton-block tw-h-4"
+            />
+            <div
+              className="skeleton skeleton-block tw-h-4"
+            />
+          </div>
+        </td>
+        <td>
+          <div
+            className=""
+          >
+            <div
+              className="skeleton skeleton-block tw-h-4"
+            />
+            <div
+              className="skeleton skeleton-block tw-h-4"
+            />
+          </div>
+        </td>
+        <td>
+          <div
+            className=""
+          >
+            <div
+              className="skeleton skeleton-block tw-h-4"
+            />
+            <div
+              className="skeleton skeleton-block tw-h-4"
+            />
+          </div>
+        </td>
+        <td>
+          <div
+            className=""
+          >
+            <div
+              className="skeleton skeleton-block tw-h-4"
+            />
+            <div
+              className="skeleton skeleton-block tw-h-4"
+            />
+          </div>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+`;
+
+exports[`Index page tests Page rendering: Loaded 1`] = `
+<div
+  className="tw-p-4"
+>
+  <table>
+    <colgroup>
+      <col
+        style={
+          {
+            "width": "320px",
+          }
+        }
+      />
+      <col
+        style={
+          {
+            "width": "140px",
+          }
+        }
+      />
+      <col
+        style={
+          {
+            "width": undefined,
+          }
+        }
+      />
+      <col
+        style={
+          {
+            "width": "200px",
+          }
+        }
+      />
+      <col
+        style={
+          {
+            "width": "140px",
+          }
+        }
+      />
+    </colgroup>
+    <tbody>
+      <tr>
+        <td>
+          <div>
+            <div
+              className=""
+            >
+              <div
+                style={
+                  {
+                    "height": "64px",
+                    "width": "64px",
+                  }
+                }
+              >
+                <img
+                  alt="User avatar"
+                  src="https://avatars.githubusercontent.com/u/18249173"
+                />
+              </div>
+            </div>
+            <div
+              className=""
+            >
+              <span>
+                Bonnie Lemke
+              </span>
+              <span>
+                Hilario72@yahoo.com
+              </span>
+            </div>
+          </div>
+        </td>
+        <td>
+          <div
+            className=""
+          >
+            <span>
+              23/11/1989
+            </span>
+            <span>
+              Birth Date
+            </span>
+          </div>
+        </td>
+        <td>
+          <div
+            className=""
+          >
+            <span>
+              4743 Hettinger Heights, East Eldora, 67074-0414
+            </span>
+            <span>
+              Address
+            </span>
+          </div>
+        </td>
+        <td>
+          <div
+            className=""
+          >
+            <span>
+              (140) 384-7869
+            </span>
+            <span>
+              Phone Number
+            </span>
+          </div>
+        </td>
+        <td>
+          <div
+            className=""
+          >
+            <span>
+              <span
+                className=""
+              >
+                Average
+              </span>
+            </span>
+            <span>
+              Password
+            </span>
+          </div>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <div>
+            <div
+              className=""
+            >
+              <div
+                style={
+                  {
+                    "height": "64px",
+                    "width": "64px",
+                  }
+                }
+              >
+                <img
+                  alt="User avatar"
+                  src="https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/380.jpg"
+                />
+              </div>
+            </div>
+            <div
+              className=""
+            >
+              <span>
+                Dr. Tonya Parker
+              </span>
+              <span>
+                Johnathon_Ortiz83@gmail.com
+              </span>
+            </div>
+          </div>
+        </td>
+        <td>
+          <div
+            className=""
+          >
+            <span>
+              28/09/1982
+            </span>
+            <span>
+              Birth Date
+            </span>
+          </div>
+        </td>
+        <td>
+          <div
+            className=""
+          >
+            <span>
+              75810 Norene Tunnel, East Clementine, 52058
+            </span>
+            <span>
+              Address
+            </span>
+          </div>
+        </td>
+        <td>
+          <div
+            className=""
+          >
+            <span>
+              (169) 790-4535
+            </span>
+            <span>
+              Phone Number
+            </span>
+          </div>
+        </td>
+        <td>
+          <div
+            className=""
+          >
+            <span>
+              <span
+                className=""
+              >
+                Average
+              </span>
+            </span>
+            <span>
+              Password
+            </span>
+          </div>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <div>
+            <div
+              className=""
+            >
+              <div
+                style={
+                  {
+                    "height": "64px",
+                    "width": "64px",
+                  }
+                }
+              >
+                <img
+                  alt="User avatar"
+                  src="https://avatars.githubusercontent.com/u/76254782"
+                />
+              </div>
+            </div>
+            <div
+              className=""
+            >
+              <span>
+                Sherri Pouros Sr.
+              </span>
+              <span>
+                Grayson.Fisher@gmail.com
+              </span>
+            </div>
+          </div>
+        </td>
+        <td>
+          <div
+            className=""
+          >
+            <span>
+              25/02/1998
+            </span>
+            <span>
+              Birth Date
+            </span>
+          </div>
+        </td>
+        <td>
+          <div
+            className=""
+          >
+            <span>
+              1651 Brenda Trail, South Maiya, 82588
+            </span>
+            <span>
+              Address
+            </span>
+          </div>
+        </td>
+        <td>
+          <div
+            className=""
+          >
+            <span>
+              (536) 383-8148
+            </span>
+            <span>
+              Phone Number
+            </span>
+          </div>
+        </td>
+        <td>
+          <div
+            className=""
+          >
+            <span>
+              <span
+                className="undefined"
+              >
+                Weak
+              </span>
+            </span>
+            <span>
+              Password
+            </span>
+          </div>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <div>
+            <div
+              className=""
+            >
+              <div
+                style={
+                  {
+                    "height": "64px",
+                    "width": "64px",
+                  }
+                }
+              >
+                <img
+                  alt="User avatar"
+                  src="https://avatars.githubusercontent.com/u/73107303"
+                />
+              </div>
+            </div>
+            <div
+              className=""
+            >
+              <span>
+                Dr. Carlos Mills II
+              </span>
+              <span>
+                Reyes.Bergnaum@hotmail.com
+              </span>
+            </div>
+          </div>
+        </td>
+        <td>
+          <div
+            className=""
+          >
+            <span>
+              06/09/1956
+            </span>
+            <span>
+              Birth Date
+            </span>
+          </div>
+        </td>
+        <td>
+          <div
+            className=""
+          >
+            <span>
+              595 Augustine Brooks, Port Timmy, 50407
+            </span>
+            <span>
+              Address
+            </span>
+          </div>
+        </td>
+        <td>
+          <div
+            className=""
+          >
+            <span>
+              (475) 047-2831
+            </span>
+            <span>
+              Phone Number
+            </span>
+          </div>
+        </td>
+        <td>
+          <div
+            className=""
+          >
+            <span>
+              <span
+                className=""
+              >
+                Strong
+              </span>
+            </span>
+            <span>
+              Password
+            </span>
+          </div>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <div>
+            <div
+              className=""
+            >
+              <div
+                style={
+                  {
+                    "height": "64px",
+                    "width": "64px",
+                  }
+                }
+              >
+                <img
+                  alt="User avatar"
+                  src="https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/1159.jpg"
+                />
+              </div>
+            </div>
+            <div
+              className=""
+            >
+              <span>
+                Della Marvin
+              </span>
+              <span>
+                Ike82@hotmail.com
+              </span>
+            </div>
+          </div>
+        </td>
+        <td>
+          <div
+            className=""
+          >
+            <span>
+              21/03/1982
+            </span>
+            <span>
+              Birth Date
+            </span>
+          </div>
+        </td>
+        <td>
+          <div
+            className=""
+          >
+            <span>
+              910 Jean Cove, Jacobiton, 85414
+            </span>
+            <span>
+              Address
+            </span>
+          </div>
+        </td>
+        <td>
+          <div
+            className=""
+          >
+            <span>
+              (248) 349-8806
+            </span>
+            <span>
+              Phone Number
+            </span>
+          </div>
+        </td>
+        <td>
+          <div
+            className=""
+          >
+            <span>
+              <span
+                className=""
+              >
+                Average
+              </span>
+            </span>
+            <span>
+              Password
+            </span>
+          </div>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <div>
+            <div
+              className=""
+            >
+              <div
+                style={
+                  {
+                    "height": "64px",
+                    "width": "64px",
+                  }
+                }
+              >
+                <img
+                  alt="User avatar"
+                  src="https://avatars.githubusercontent.com/u/75117376"
+                />
+              </div>
+            </div>
+            <div
+              className=""
+            >
+              <span>
+                Dwayne Waelchi
+              </span>
+              <span>
+                Maxine32@gmail.com
+              </span>
+            </div>
+          </div>
+        </td>
+        <td>
+          <div
+            className=""
+          >
+            <span>
+              13/02/1993
+            </span>
+            <span>
+              Birth Date
+            </span>
+          </div>
+        </td>
+        <td>
+          <div
+            className=""
+          >
+            <span>
+              53437 Liberty Street, South Rachelleberg, 36871-5419
+            </span>
+            <span>
+              Address
+            </span>
+          </div>
+        </td>
+        <td>
+          <div
+            className=""
+          >
+            <span>
+              (421) 969-5064
+            </span>
+            <span>
+              Phone Number
+            </span>
+          </div>
+        </td>
+        <td>
+          <div
+            className=""
+          >
+            <span>
+              <span
+                className="undefined"
+              >
+                Weak
+              </span>
+            </span>
+            <span>
+              Password
+            </span>
+          </div>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <div>
+            <div
+              className=""
+            >
+              <div
+                style={
+                  {
+                    "height": "64px",
+                    "width": "64px",
+                  }
+                }
+              >
+                <img
+                  alt="User avatar"
+                  src="https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/468.jpg"
+                />
+              </div>
+            </div>
+            <div
+              className=""
+            >
+              <span>
+                Joyce Koepp
+              </span>
+              <span>
+                Jay79@hotmail.com
+              </span>
+            </div>
+          </div>
+        </td>
+        <td>
+          <div
+            className=""
+          >
+            <span>
+              25/12/1980
+            </span>
+            <span>
+              Birth Date
+            </span>
+          </div>
+        </td>
+        <td>
+          <div
+            className=""
+          >
+            <span>
+              34673 Treutel Drive, Viviancester, 68909-2053
+            </span>
+            <span>
+              Address
+            </span>
+          </div>
+        </td>
+        <td>
+          <div
+            className=""
+          >
+            <span>
+              (059) 125-3329
+            </span>
+            <span>
+              Phone Number
+            </span>
+          </div>
+        </td>
+        <td>
+          <div
+            className=""
+          >
+            <span>
+              <span
+                className="undefined"
+              >
+                Weak
+              </span>
+            </span>
+            <span>
+              Password
+            </span>
+          </div>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <div>
+            <div
+              className=""
+            >
+              <div
+                style={
+                  {
+                    "height": "64px",
+                    "width": "64px",
+                  }
+                }
+              >
+                <img
+                  alt="User avatar"
+                  src="https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/596.jpg"
+                />
+              </div>
+            </div>
+            <div
+              className=""
+            >
+              <span>
+                Caleb Schiller
+              </span>
+              <span>
+                Wallace35@gmail.com
+              </span>
+            </div>
+          </div>
+        </td>
+        <td>
+          <div
+            className=""
+          >
+            <span>
+              04/06/2003
+            </span>
+            <span>
+              Birth Date
+            </span>
+          </div>
+        </td>
+        <td>
+          <div
+            className=""
+          >
+            <span>
+              468 High Street, Tobyton, 99680
+            </span>
+            <span>
+              Address
+            </span>
+          </div>
+        </td>
+        <td>
+          <div
+            className=""
+          >
+            <span>
+              (811) 852-0570
+            </span>
+            <span>
+              Phone Number
+            </span>
+          </div>
+        </td>
+        <td>
+          <div
+            className=""
+          >
+            <span>
+              <span
+                className="undefined"
+              >
+                Weak
+              </span>
+            </span>
+            <span>
+              Password
+            </span>
+          </div>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <div>
+            <div
+              className=""
+            >
+              <div
+                style={
+                  {
+                    "height": "64px",
+                    "width": "64px",
+                  }
+                }
+              >
+                <img
+                  alt="User avatar"
+                  src="https://avatars.githubusercontent.com/u/33939747"
+                />
+              </div>
+            </div>
+            <div
+              className=""
+            >
+              <span>
+                Otis Harris
+              </span>
+              <span>
+                Timmy.Donnelly70@hotmail.com
+              </span>
+            </div>
+          </div>
+        </td>
+        <td>
+          <div
+            className=""
+          >
+            <span>
+              21/03/1969
+            </span>
+            <span>
+              Birth Date
+            </span>
+          </div>
+        </td>
+        <td>
+          <div
+            className=""
+          >
+            <span>
+              458 7th Avenue, Thaddeustown, 59565-8833
+            </span>
+            <span>
+              Address
+            </span>
+          </div>
+        </td>
+        <td>
+          <div
+            className=""
+          >
+            <span>
+              (393) 473-3421
+            </span>
+            <span>
+              Phone Number
+            </span>
+          </div>
+        </td>
+        <td>
+          <div
+            className=""
+          >
+            <span>
+              <span
+                className=""
+              >
+                Strong
+              </span>
+            </span>
+            <span>
+              Password
+            </span>
+          </div>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <div>
+            <div
+              className=""
+            >
+              <div
+                style={
+                  {
+                    "height": "64px",
+                    "width": "64px",
+                  }
+                }
+              >
+                <img
+                  alt="User avatar"
+                  src="https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/417.jpg"
+                />
+              </div>
+            </div>
+            <div
+              className=""
+            >
+              <span>
+                Penny McClure
+              </span>
+              <span>
+                Kendrick55@gmail.com
+              </span>
+            </div>
+          </div>
+        </td>
+        <td>
+          <div
+            className=""
+          >
+            <span>
+              12/05/1957
+            </span>
+            <span>
+              Birth Date
+            </span>
+          </div>
+        </td>
+        <td>
+          <div
+            className=""
+          >
+            <span>
+              3075 Murphy Green, Karianecester, 09951-2175
+            </span>
+            <span>
+              Address
+            </span>
+          </div>
+        </td>
+        <td>
+          <div
+            className=""
+          >
+            <span>
+              (742) 184-4877
+            </span>
+            <span>
+              Phone Number
+            </span>
+          </div>
+        </td>
+        <td>
+          <div
+            className=""
+          >
+            <span>
+              <span
+                className="undefined"
+              >
+                Weak
+              </span>
+            </span>
+            <span>
+              Password
+            </span>
+          </div>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+`;

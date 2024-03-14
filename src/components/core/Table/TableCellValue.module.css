@@ -1,0 +1,14 @@
+.value-container {
+  display: flex;
+  flex-flow: column nowrap;
+  align-items: stretch;
+  gap: 2px;
+}
+
+.value-heading {
+  @apply tw-text-gray-700 tw-font-medium;
+}
+
+.value-description {
+  @apply tw-text-gray-500 tw-text-sm;
+}

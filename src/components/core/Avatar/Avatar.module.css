@@ -1,0 +1,22 @@
+.avatar-root {
+  position: relative;
+}
+
+.avatar-skeleton {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+.wrapper {
+  overflow: hidden;
+  border-width: 2px;
+  border-style: solid;
+  border-radius: 50%;
+  @apply tw-border-gray-100 tw-shadow-md;
+}
+
+.wrapper img {
+  width: 100%;
+  height: 100%;
+}

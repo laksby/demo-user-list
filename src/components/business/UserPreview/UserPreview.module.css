@@ -1,0 +1,14 @@
+.preview {
+  display: flex;
+  flex-flow: row nowrap;
+  align-items: center;
+  gap: 16px;
+}
+
+.avatar {
+  flex: 0 0 auto;
+}
+
+.text {
+  flex: 1 0 auto;
+}

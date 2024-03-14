@@ -1,0 +1,15 @@
+.tag {
+  @apply tw-rounded tw-text-white tw-text-sm tw-p-1;
+}
+
+.tag-success {
+  @apply tw-bg-green-700;
+}
+
+.tag-warning {
+  @apply tw-bg-yellow-700;
+}
+
+.tag-danger {
+  @apply tw-bg-red-700;
+}

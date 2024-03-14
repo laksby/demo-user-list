@@ -3,3 +3,36 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+.skeleton-circle {
+  @apply tw-rounded-full;
+}
+
+.skeleton-block {
+  @apply tw-rounded;
+}
+
+.skeleton {
+  @apply tw-relative tw-overflow-hidden tw-bg-gray-200;
+}
+
+.skeleton::after {
+  transform: translateX(-100%);
+  animation: linear shimmer 1s infinite;
+  background: linear-gradient(
+    to right,
+    transparent 0%,
+    rgb(255 255 255 / 25%) 25%,
+    rgb(255 255 255 / 50%) 45%,
+    rgb(255 255 255 / 50%) 55%,
+    rgb(255 255 255 / 25%) 75%,
+    transparent 100%
+  );
+  @apply tw-content-[''] tw-absolute tw-inset-0;
+}
+
+@keyframes shimmer {
+  100% {
+    transform: translateX(100%);
+  }
+}
